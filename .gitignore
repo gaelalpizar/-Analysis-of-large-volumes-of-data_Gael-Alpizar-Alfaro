@@ -1,0 +1,55 @@
+# =========================
+# Ejecutables (generales)
+# =========================
+*.exe
+*.out
+*.app
+*.bin
+*.msi
+*.apk
+*.ipa
+*.deb
+*.dmg
+
+# =========================
+# Archivos compilados
+# =========================
+*.o
+*.so
+*.dll
+*.dylib
+*.class
+*.pyc
+__pycache__/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Spotlight / Finder
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Volúmenes externos
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# =========================
+# Xcode / desarrollo Apple
+# =========================
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+
+# =========================
+# Archivos temporales
+# =========================
+*.log
+*.tmp
+*.temp
+*.swp
